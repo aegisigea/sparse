@@ -1,0 +1,13 @@
+# Futhark
+*.c
+*.actual
+*.expected
+*.pkg
+*.in
+*.out
+*.json
+
+# Miscellaneous
+*/lib
+*/data
+*/plt
